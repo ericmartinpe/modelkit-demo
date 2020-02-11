@@ -1,6 +1,6 @@
 <%#INTERFACE
 
-modelkit_version "~>0.7.0"
+modelkit_version "~>0.8.0"
 
 parameter "building_name", :default=>"Example Building"
 parameter "orientation", :default=>0
